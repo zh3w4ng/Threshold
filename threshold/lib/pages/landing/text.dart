@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:threshold/sizes_helper.dart';
+import 'package:threshold/common/sizes_helper.dart';
 
-import 'colors.dart';
+import '../../common/colors.dart';
 
 class LandingTextOne extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Text(
-      'This is Rushil Rai.',
+      'This is ZHE WANG.',
       style: TextStyle(
         color: brownColor,
         fontFamily: 'Poppins',
